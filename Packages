@@ -1,0 +1,12 @@
+Package: com.kurdhack.localiapstore
+Version: 2.0.0-1
+Section: Tweaks
+Maintainer: email <kurdhack@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./localiapstore.deb
+Size: 854
+MD5sum: 0D30D66FC33D301DE80EF87F9D99F8F5
+Description: This is a sample new package. Firmware should be greater than 7.0
+Name: localiapstore
+Author: kurdhack <kurdhack@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
